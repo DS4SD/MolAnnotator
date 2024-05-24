@@ -1,6 +1,6 @@
 # MolAnnotator
 
-This repository implement applications to ease manual annotation of chemical images. 
+This repository implements applications to ease manual annotation of chemical images. 
 
 ## Installation
 
