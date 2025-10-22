@@ -60,8 +60,6 @@ setuptools.setup(
         "Intended Audience :: Developers",
         "License :: Other/Proprietary License",
         "Natural Language :: English",
-        "Operating System :: OS Independent",
-        "Topic :: Database",
         "Programming Language :: Python :: 3",
     ],
     python_requires='>=3.11',
