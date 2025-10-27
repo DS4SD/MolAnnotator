@@ -1,6 +1,6 @@
 # MolAnnotator
 
-<img src="assets/interface.png" width="750" />
+<img src="assets/interface.jpg" width="750" />
 
 This repository implements applications to ease manual annotation of chemical images, used in [PatCID: an open-access dataset of chemical structures in patent documents](https://www.nature.com/articles/s41467-024-50779-y). 
 
