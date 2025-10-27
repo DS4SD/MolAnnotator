@@ -1,5 +1,7 @@
 # MolAnnotator
 
+<img src="assets/interface.png" width="900" />
+
 This repository implements applications to ease manual annotation of chemical images. 
 
 ## Installation
