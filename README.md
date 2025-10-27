@@ -17,7 +17,7 @@ The classification application allows to assign to an image one of the following
 
 To run the application:
 1. Move the images to be annotated to `./data/classfication/default/images/*.png`,
-2. (optional) Move pre-annotations to `./data/classfication/default/classes/*.json`,
+2. (Optional) Move pre-annotations to `./data/classfication/default/classes/*.json`,
 3. Run `bash ./molannotator/apps/run_classification_app.sh`.
 
 Annotations are saved in `./data/classfication/default/classes/*.json`.
@@ -27,8 +27,8 @@ The recognition application allows to annotate the molecular graph of a chemical
 
 To run the application:
 1. Move the images to be annotated to `./data/recognition/default/images/*.png`,
-2. (optional) Create pre-annotations by running `python3 ./molannotator/molscribe_pre_annotate.py` (see [MolScribe](https://github.com/thomas0809/MolScribe) for installation steps),
-3. (optional) Move pre-annotations to `./data/recognition/default/predictions/*.mol`,
+2. (Optional) Create pre-annotations by running `python3 ./molannotator/molscribe_pre_annotate.py` (see [MolScribe](https://github.com/thomas0809/MolScribe) for installation steps),
+3. (Optional) Move pre-annotations to `./data/recognition/default/predictions/*.mol`,
 3. Run `bash ./molannotator/apps/run_recognition_app.sh`.
 
 Annotations are saved in `./data/recognition/default/molfiles/*.mol`.
